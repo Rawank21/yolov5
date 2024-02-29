@@ -1,0 +1,14 @@
+names:
+- Broken
+- Burnt
+- Green
+- Normal
+nc: 4
+roboflow:
+  license: Private
+  project: bunnah-project
+  url: https://app.roboflow.com/bunnah-project/bunnah-project/2
+  version: 2
+  workspace: bunnah-project
+train: Bunnah-Project-2/train/images
+val: Bunnah-Project-2/test/images
